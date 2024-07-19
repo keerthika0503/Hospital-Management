@@ -1,3 +1,4 @@
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f856d763-7d66-4560-9bb2-d4a48795d9d9">
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).

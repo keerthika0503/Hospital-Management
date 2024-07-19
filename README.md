@@ -1,6 +1,10 @@
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/f856d763-7d66-4560-9bb2-d4a48795d9d9">
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/dd029efb-812e-4eb9-ae6e-fdad4da0ca6c">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/0947b586-811c-4022-8d7a-29416d5bfffa">
+
+
 ## Functions
-### Admin
+**### Admin**
 - Signup their account. Then Login (No approval Required).
 - Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
 - Can admit/view/approve/reject/discharge patient (discharge patient when treatment is done).
